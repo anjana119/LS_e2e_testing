@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="testScenarioForAustralia.redirectToSuccessPageTestAustralia"
+    errors="0" failures="1" hostname="" id="" package="testScenarioForAustralia" skipped="0"
+    tests="1" time="135.8" timestamp="">
+  
+    <testcase name="Luxury Escapes Pay Securely Test Australia" classname="testScenarioForAustralia.redirectToSuccessPageTestAustralia" time="135.8" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;input[aria-label=&#34;Credit or debit card number&#34;]&gt; to be present for 1000 milliseconds. - expected &#34;found&#34; but got: &#34;not found&#34; (1060ms)">    at Object.browser.click.setValue.setValue.setValue.setValue.setValue.setValue.setValue.click.setValue.setValue.setValue.setValue.setValue.setValue.setValue.click.click.click.waitForElementVisible.click.waitForElementVisible.setValue.waitForElementVisible.waitForElementPresent.element.el (F:\projects\LS_e2e_testing\tests\testScenarioForAustralia\redirectToSuccessPageTestAustralia.js:166:30)</failure>
+<system-out>[[ATTACHMENT|F:\projects\LS_e2e_testing\tests_output\screenshots\testScenarioForAustralia\redirectToSuccessPageTestAustralia\Luxury-Escapes-Pay-Securely-Test-Australia_FAILED_Sep-26-2021-152415-GMT+0530.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

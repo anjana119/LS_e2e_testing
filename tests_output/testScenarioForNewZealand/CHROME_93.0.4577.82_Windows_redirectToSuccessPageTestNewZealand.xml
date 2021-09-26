@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="testScenarioForNewZealand.redirectToSuccessPageTestNewZealand"
+    errors="0" failures="1" hostname="" id="" package="testScenarioForNewZealand" skipped="0"
+    tests="1" time="98.70" timestamp="">
+  
+    <testcase name="Luxury Escapes Redirect To Success Page Test NewZealand" classname="testScenarioForNewZealand.redirectToSuccessPageTestNewZealand" time="98.70" assertions="17">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;input[aria-label=&#34;Credit or debit card number&#34;]&gt; to be present for 1000 milliseconds. - expected &#34;found&#34; but got: &#34;not found&#34; (1070ms)">    at Object.browser.click.setValue.setValue.setValue.setValue.setValue.setValue.click.setValue.setValue.setValue.setValue.click.click.click.waitForElementVisible.click.waitForElementVisible.setValue.waitForElementVisible.waitForElementPresent.element.el (F:\projects\LS_e2e_testing\tests\testScenarioForNewZealand\redirectToSuccessPageTestNewZealand.js:168:30)</failure>
+<system-out>[[ATTACHMENT|F:\projects\LS_e2e_testing\tests_output\screenshots\testScenarioForNewZealand\redirectToSuccessPageTestNewZealand\Luxury-Escapes-Redirect-To-Success-Page-Test-NewZealand_FAILED_Sep-26-2021-154539-GMT+0530.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
